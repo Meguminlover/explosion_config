@@ -1,0 +1,101 @@
+{
+    "api": {
+        "id": null,
+        "worker-id": null
+    },
+    "autosave": true,
+    "background": true,
+    "colors": true,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "hw-aes": null,
+        "priority": null,
+        "asm": true,
+		"threads": 1,
+        "cn": [
+            -1,
+            -1,
+            -1
+        ],
+        "cn-heavy": [
+            -1,
+            -1
+        ],
+        "cn-lite": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "cn-pico": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "cn/gpu": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "rx": [
+            -1,
+            -1,
+            -1
+        ],
+        "rx/wow": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ],
+        "cn/0": false,
+        "cn-lite/0": false
+    },
+    "donate-level": 5,
+    "donate-over-proxy": 1,
+    "http": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "log-file": null,
+    "pools": [
+        {
+            "algo": "cn/r",
+            "url": "pool.supportxmr.com:3333",
+            "user": "42bPvyrWtXoMVTrzR8Jf4eKdc98deiv8UM4HqYSrAxP8bKeKjn7Wi6TR1oFYSYraAk64ebYqTtcWVEbRm7fTnvHVQtqmWN2",
+            "pass": "n",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false
+        }
+    ],
+	"threads": 1,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": false,
+    "user-agent": null,
+    "watch": true
+}
