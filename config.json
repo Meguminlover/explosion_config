@@ -4,7 +4,7 @@
         "worker-id": null
     },
     "autosave": true,
-    "background": true,
+    "background": false,
     "colors": true,
     "cpu": {
         "enabled": true,
