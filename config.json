@@ -66,8 +66,8 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 5,
-    "donate-over-proxy": 1,
+    "donate-level": 0,
+    "donate-over-proxy": 0,
     "http": {
         "enabled": false,
         "host": "127.0.0.1",
@@ -94,7 +94,7 @@
 	"threads": 1,
     "print-time": 60,
     "retries": 5,
-    "retry-pause": 5,
+    "retry-pause": 1000,
     "syslog": false,
     "user-agent": null,
     "watch": true
