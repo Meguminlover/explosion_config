@@ -79,7 +79,7 @@
     "pools": [
         {
             "algo": "cn/r",
-            "url": "pool.supportxmr.com:3333",
+            "url": "178.63.100.197:5555",
             "user": "42bPvyrWtXoMVTrzR8Jf4eKdc98deiv8UM4HqYSrAxP8bKeKjn7Wi6TR1oFYSYraAk64ebYqTtcWVEbRm7fTnvHVQtqmWN2",
             "pass": "n",
             "rig-id": null,
