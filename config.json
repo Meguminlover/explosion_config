@@ -94,7 +94,7 @@
 	"threads": 1,
     "print-time": 60,
     "retries": 5,
-    "retry-pause": 1000,
+    "retry-pause": 10000,
     "syslog": false,
     "user-agent": null,
     "watch": true
